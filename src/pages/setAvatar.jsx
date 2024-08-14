@@ -19,7 +19,7 @@
       }
 
     function Avatar() {
-        const api = "https://api.multiavatar.com/";
+        const api = "https://api.multiavatar.com";
         const navigate = useNavigate();
          
 
